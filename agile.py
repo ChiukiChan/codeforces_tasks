@@ -1,12 +1,11 @@
-n = int(input())
-count = 0
+
 strs = []
 exceptions = []
 
 for i in range(n):
     strs.append(input())
 
-final_str = "BSUIROPENX"
+final_str = "1234567"
 
 
 def concatenate():
